@@ -1,4 +1,4 @@
-const arrayDiff = require("../src/array-diff");
+const arrayDiff = require("./array-diff");
 
 describe("tests", () => {
   test("test 1", () => {

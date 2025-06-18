@@ -1,4 +1,4 @@
-const digitalRoot = require("../src/sum-of-roots");
+const digitalRoot = require("./sum-of-roots");
 
 describe("Tests", () => {
   test("test 1", () => {

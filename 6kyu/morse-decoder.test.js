@@ -1,4 +1,4 @@
-const decodeMorse = require("../src/morse-decoder");
+const decodeMorse = require("./morse-decoder");
 
 describe("Sample tests", () => {
   test("Example from description", () => {

@@ -1,4 +1,4 @@
-const spinWords = require("../src/stop-gninnips-my-sdrow");
+const spinWords = require("./stop-gninnips-my-sdrow");
 
 describe("test", () => {
   test("test 1", () => {

@@ -1,4 +1,4 @@
-const isValidWalk = require("../src/take-a-ten-minutes-walk");
+const isValidWalk = require("./take-a-ten-minutes-walk");
 
 describe("tests", () => {
   test("True Test", () => {

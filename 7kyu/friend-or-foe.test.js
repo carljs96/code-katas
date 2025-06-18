@@ -1,4 +1,4 @@
-const friend = require("../src/friend-or-foe");
+const friend = require("./friend-or-foe");
 
 describe("tests", () => {
   test("test 1", () => {

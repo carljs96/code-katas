@@ -1,4 +1,4 @@
-const order = require("../src/your-order-please");
+const order = require("./your-order-please");
 
 describe("test", () => {
   test("test1", () => {
