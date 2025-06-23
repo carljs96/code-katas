@@ -1,4 +1,4 @@
-const kad = require("./kadanes_algo");
+const kad = require("./kadanes-algo");
 
 describe("kad (Kadane's algorithm)", () => {
   test("returns max subarray sum for positive and negative numbers", () => {

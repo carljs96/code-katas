@@ -1,4 +1,4 @@
-const fib = require("./fibonacci_sequence");
+const fib = require("./fibonacci-sequence");
 
 describe("tests", () => {
   test("test1", () => {

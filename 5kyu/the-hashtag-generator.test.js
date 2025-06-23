@@ -1,4 +1,4 @@
-const generateHashtag = require("./the_hashtag_generator");
+const generateHashtag = require("./the-hashtag-generator");
 
 describe("generateHashtag", () => {
   test("returns false for empty string", () => {
